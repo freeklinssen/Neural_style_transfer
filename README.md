@@ -1,3 +1,4 @@
+# Neural Style Transfer
 Two different algorithms to achieve Style Transfers. 
 
 The results of the feed-forward approach are not showed in GitHub as the Notebook is too long but can be viewed through Google Colab. The feed-forward model performs better than the original approach and is able to tweak the intensity of the styles and mix them. 
